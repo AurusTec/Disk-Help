@@ -27,6 +27,12 @@ Não precisa instalar nada. Basta abrir o arquivo no navegador:
 site/index.html
 ```
 
+## ▲ Deploy na Vercel
+
+1. Em [vercel.com/new](https://vercel.com/new), importe este repositório.
+2. Não altere nada: o `vercel.json` já indica que o site está em `site/` e que não há build.
+3. Clique em **Deploy**.
+
 ## 📁 Estrutura
 
 ```
@@ -38,7 +44,8 @@ Disk-Help/
 │   └── favicon.svg
 ├── image.png        → panfleto original (referência)
 ├── PRODUCT.md       → contexto da empresa
-└── DESIGN.md        → cores, fontes e componentes
+├── DESIGN.md        → cores, fontes e componentes
+└── vercel.json      → configuração de deploy
 ```
 
 ## 📞 Contato

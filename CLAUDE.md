@@ -38,7 +38,7 @@ HTML/CSS/JS puro, sem build e sem dependências (escolha do usuário). Não intr
 
 - Logo recriado a partir do panfleto (baixa resolução); trocar pelo arquivo oficial quando o cliente enviar.
 - Cidades do mapa/lista de atendimento são exemplos dentro do raio de 100 km; confirmar com o cliente.
-- Site não publicado ainda e pasta sem git.
+- Repositório: `github.com/AurusTec/Disk-Help`. Deploy na Vercel via `vercel.json` (serve só `site/`, sem build); o resto da pasta não é publicado.
 
 ## Skills e ferramentas
 
